@@ -7,6 +7,7 @@ public class Hero extends Character{
 		super(25,10,7);
 	}
 
+	
 
 	}
 
