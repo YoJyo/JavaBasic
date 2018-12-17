@@ -16,6 +16,8 @@ public class Room {
 	/** 開始日 */
 	private Date startDate;
 
+
+
 	/**
 	 * 教室名を取得します
 	 * @return 教室名
@@ -58,4 +60,14 @@ public class Room {
 	public void setStartDate(Date startDate) {
 		this.startDate = startDate;
 	}
+	public String[] getCurriculum() {
+
+		return null;
+		// TODO 自動生成されたメソッド・スタブ
+
+	}
+
+
+
+
 }

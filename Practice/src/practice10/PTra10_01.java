@@ -32,7 +32,7 @@ public class PTra10_01 {
 		us = new User();
 
 		// ★ 変数usに格納されているインスタンスの、フィールドuserId, userNm, mail, passwordを出力してください
-		System.out.println(us.UserId);
+		System.out.println(us.userId);
 		System.out.println(us.userNm);
 		System.out.println(us.mail);
 		System.out.println(us.password);
